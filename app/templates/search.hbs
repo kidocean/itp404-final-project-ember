@@ -1,0 +1,44 @@
+<style>
+#mapid {
+  visibility: hidden;
+  height: 0;
+  width: 0;
+}
+
+
+</style>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">Solace</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="/search">Country Search</a></li>
+      <li><a href="/searchlocation">Location Search</a></li>
+      <li><a href="/searchdisaster">Disaster Search</a></li>
+      <li><a href="/map">Relief Map</a></li>
+    </ul>
+  </div>
+</nav>
+
+<center><h1> Search for Disasters by Countries </h1></center>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+
+</div>
+<div class="col-md-8">
+
+  <form onSubmit= {{action "search"}}>
+{{input type = "text" value=searchTerm placeholder = "Search Country"}}
+
+
+
+<button type="submit">Search </button>
+</form>
+{{outlet}}
+</div>
+</div>
+</div>

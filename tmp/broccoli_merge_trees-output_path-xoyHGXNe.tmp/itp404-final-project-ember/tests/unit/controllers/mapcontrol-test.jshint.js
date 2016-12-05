@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/JK FINAL FINAL/tmp/broccoli_merge_trees-input_base_path-AlAKt2ZT.tmp/2/itp404-final-project-ember/tests/unit/controllers/mapcontrol-test.jshint.js

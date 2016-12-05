@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/maps-master/tmp/broccoli_merge_trees-input_base_path-US90DwbE.tmp/2/itp404-final-project-ember/tests/helpers/destroy-app.jshint.js

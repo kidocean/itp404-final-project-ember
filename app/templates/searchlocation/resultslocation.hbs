@@ -1,0 +1,16 @@
+<br>
+<h1>results</h1>
+{{outlet}}
+
+
+<ol>
+    {{#each model.data as |data|}}
+    {{#if data.Location}}
+
+    <li>
+({{data.Startdate}}) <strong>{{data.Location}}</strong>, {{data.Country}} - {{data.Disastertype}}
+</li>
+
+{{/if}}
+  {{/each}}
+  </ol>

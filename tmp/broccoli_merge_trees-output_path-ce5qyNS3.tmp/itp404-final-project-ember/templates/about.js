@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/Solace - Final Project/Solace---Final-Project/Solace - Ember/tmp/broccoli_merge_trees-input_base_path-aHopiPJh.tmp/1/itp404-final-project-ember/templates/about.js

@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/JK FINAL FINAL/Ember/tmp/broccoli_merge_trees-input_base_path-yc2R1Qxu.tmp/16/initializers/export-application-global.js

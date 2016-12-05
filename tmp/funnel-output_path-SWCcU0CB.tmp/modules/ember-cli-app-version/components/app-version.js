@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/Solace - Final Project/Solace---Final-Project/Solace - Ember/tmp/funnel-input_base_path-ZS01egaV.tmp/0/components/app-version.js

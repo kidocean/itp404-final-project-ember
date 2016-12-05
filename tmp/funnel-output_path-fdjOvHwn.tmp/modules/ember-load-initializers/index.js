@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/JK FINAL FINAL/Ember/tmp/funnel-input_base_path-xls7jSjs.tmp/0/index.js

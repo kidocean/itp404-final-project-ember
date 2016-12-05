@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/JK FINAL FINAL/Ember/node_modules/ember-data/addon/adapter.js

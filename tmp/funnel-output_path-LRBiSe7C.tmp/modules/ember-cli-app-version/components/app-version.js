@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/JK FINAL FINAL/Ember/tmp/funnel-input_base_path-bA7SM0bU.tmp/0/components/app-version.js

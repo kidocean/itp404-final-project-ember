@@ -1,0 +1,10 @@
+{{outlet}}
+
+
+<ul class="people_list" style="position: absolute; top: 100px">
+  {{#each model.data as |item|}}
+    {{#if item.Location}}
+    <li>{{item.Location}} - {{item.Disastertype}}</li>
+    {{/if}}
+  {{/each}}
+</ul>
